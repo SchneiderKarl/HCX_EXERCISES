@@ -33,4 +33,4 @@ Further information:
 
 [SAP HANA Cloud, SAP HANA Database Data Anonymization Guide](https://help.sap.com/viewer/2f789e82e97d4f4e9416547abfbd012e/2021_01_QRC/en-US/a66e8541c4004f048630f8a55f67ad37.html)
 
-[Back to Hands-On Overview](./Overview.md)
+[Back to Hands-On Overview](./README.md)
